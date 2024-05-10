@@ -7,7 +7,7 @@ Tujuan dari analisis ini adalah untuk melakukan deskripsi statistik sederhana.
 
 Isi Repository:
 Data Gempa Bumi: Berisi dataset yang digunakan untuk analisis ini. Dataset dapat diunduh dari tautan yang disediakan.
-Notebook Analisis: Jupyter Notebook yang berisi langkah-langkah analisis data, termasuk pengolahan data, visualisasi, dan temuan yang didapatkan dari analisis.
-Hasil Analisis: Hasil analisis dalam bentuk visualisasi dan temuan akan disajikan di dalam notebook analisis.
+Notebook Analisis: Jupyter Notebook yang berisi langkah-langkah analisis data.
+Hasil Analisis: Hasil analisis dan temuan akan disajikan di dalam notebook analisis.
 
 Analisis ini saya bagikan sebagai hasil dari 'refreshing' saat waktu luang di tengah-tengah libur tanggal merah. Semoga analisis ini dapat memberikan inspirasi atau sekadar mengisi waktu luang.
